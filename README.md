@@ -1,9 +1,7 @@
-![Web Devloper](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/460465006_1039591454318506_7998080567727938374_n.jpg?stp=c0.188.1479.1479a_dst-jpg_s206x206_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e838&_nc_eui2=AeFVT7lEEU_emxw2I8gmWwkMYMoObSzEMtBgyg5tLMQy0GX92otNAf5OXwUVOBrW6TOHPNatz4pq7fbDQpdtwfv6&_nc_ohc=qK-8eTUaV40Q7kNvgFZi-kS&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=AiJ7zreEfGCBJj9bI4XY-ks&oh=00_AYDiJNi8tTH2mD7zFVOpWbdJi0DHipWJMJOJPF4K4I4f5w&oe=679820EF)
+![Web Devloper](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/344394915_733507081897760_5218018656335672123_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGAua_RBzJL2WWN0mDQ1Ep791U13kuQpr73VTXeS5CmvpWD8UNB4QgAbvOeQoabqHlLB9ertI8HRyyBOFxQyje5&_nc_ohc=dV4VaXKwy28Q7kNvgGhvqOe&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=AJl8iR0YV7sE9dC1MV6Dd_R&oh=00_AYB_b00ZvnLIbiAgo4rTcpULyjvOy7RbMDafVCv1mCQZxw&oe=67984B13)
 
 ### Hi there 👋, My name is Abdullah Imran
 #### Web Devloper
-
-
 Love to learn new skills.Full and fresh hand code is my power.Client satisfaction is my first priority
 
 Skills: VUE JS / REACT / JS / HTML / CSS
